@@ -1,0 +1,16 @@
+const DATA = [
+	{
+		"city" : "Moscow",
+		"temp" : 10,
+		"pressure" : 250
+	},
+	{
+		"city" : "Miami",
+		"temp" : 28,
+		"pressure" : 200
+	},
+	{"city" : "Beiging",
+		"temp" : 15,
+		"pressure" : 210
+	}
+]
